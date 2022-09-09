@@ -22,6 +22,9 @@
 <a href="https://t.me/NikolaevMaks"><img src="https://github.com/MaksimNikolaev/NikolaevMaksim/blob/main/Images/Telegram-blue.svg" alt="Telegram Badge"></a>
 
 </p>
+<p align="center">
+<a href="mksniklaev@gmail.com"><img src="https://github.com/MaksimNikolaev/MaksimNikolaev/blob/main/Images/gmail.jpg" alt="Gmail" width="150px"></a>
+</p>
 
 -----
 ### **МОЙ СТЭК ТЕХНОЛОГИЙ И ИНСТРУМЕНТОВ:**

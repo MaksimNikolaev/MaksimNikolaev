@@ -23,7 +23,7 @@
 
 </p>
 <p align="center">
-<a href="mksniklaev@gmail.com"><img src="https://github.com/MaksimNikolaev/MaksimNikolaev/blob/main/Images/gmail.jpg" alt="Gmail" width="150px"></a>
+<a href="mailto:mksniklaev@gmail.com"><img src="https://github.com/MaksimNikolaev/MaksimNikolaev/blob/main/Images/gmail.jpg" alt="Gmail" width="150px"></a>
 </p>
 
 -----
